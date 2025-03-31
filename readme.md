@@ -1,4 +1,4 @@
-# GPUPerfAPI.NET [![ci](https://github.com/xoofx/GPUPerfAPI.NET/actions/workflows/ci.yml/badge.svg)](https://github.com/xoofx/GPUPerfAPI.NET/actions/workflows/ci.yml) [![NuGet](https://img.shields.io/nuget/v/GPUPerfAPI.svg)](https://www.nuget.org/packages/GPUPerfAPI.NET/)
+# GPUPerfAPI.NET [![ci](https://github.com/xoofx/GPUPerfAPI.NET/actions/workflows/ci.yml/badge.svg)](https://github.com/xoofx/GPUPerfAPI.NET/actions/workflows/ci.yml) [![NuGet](https://img.shields.io/nuget/v/GPUPerfAPI.NET.svg)](https://www.nuget.org/packages/GPUPerfAPI.NET/)
 
 <img align="right" width="160px" height="160px" src="https://raw.githubusercontent.com/xoofx/GPUPerfAPI.NET/main/img/GPUPerfAPI.png">
 
