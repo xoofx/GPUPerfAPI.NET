@@ -2,7 +2,7 @@
 
 <img align="right" width="160px" height="160px" src="https://raw.githubusercontent.com/xoofx/GPUPerfAPI.NET/main/img/GPUPerfAPI.png">
 
-This is lightweight managed wrapper around the [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api).
+This is lightweight .NET managed wrapper around the [GPU Performance API for AMD GPUs](https://github.com/GPUOpen-Tools/gpu_performance_api).
 
 ## ✨ Features
 
